@@ -1,15 +1,22 @@
-## Hello World, my name is Selena 👋
+# Hello World, my name is Selena 👋
 
-## About Me
-- 🎓 I have a BA from McGill University with a double major in Computer Science and Psychology
-- 👨‍💻 I am currently working on building my own website using YouTube videos and online resources!
-- 🏂 Outside of tech, I enjoy snowboarding, reading, and hanging out with my friends! As of lately, I've been (unsuccessfully) trying to pick up the guitar.
+## :ribbon: About Me
+🎓 I have a BA from McGill University with a double major in Computer Science and Psychology <br />
+👨‍💻 I am currently working on building my own website using YouTube videos and online resources! <br />
+🏂 Outside of tech, I enjoy snowboarding, reading, and hanging out with my friends! As of lately, I've been (unsuccessfully) trying to pick up the guitar.
 
-## Skills
+## :hammer_and_wrench: Languages
+  - Python
+  - Java
+  - C
+  - Bash
+  - R
+  - OCaml
 
-## Work Experience
+## :medal_sports: Achievments 
 
-## Achievments 
+## 📞 Contact Me
+
 <!--
 **selenaachu/selenaachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
